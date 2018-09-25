@@ -4,16 +4,15 @@ This project was inspired by [this kaggle competition](https://www.kaggle.com/c/
 
 File Tree
 ```bash
-.
 ├── Code
 │   ├── Ames_Housing_Project.ipynb
-|   ├── garage_interaction_terms.png
-|   ├── garage_of_tomorrow.png
-|   ├── garage_original.png
-|   ├── garage_year_built_histogram.png
-|   ├── model_1.png
-|   ├── model_2.png
-|   ├── model_4.png
+│   ├── garage_interaction_terms.png
+│   ├── garage_of_tomorrow.png
+│   ├── garage_original.png
+│   ├── garage_year_built_histogram.png
+│   ├── model_1.png
+│   ├── model_2.png
+│   ├── model_4.png
 │   └── null_values_barh.png
 ├── Data
 │   ├── sample_sub_reg.csv
